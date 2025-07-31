@@ -1,0 +1,12 @@
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gekleurde blokjes, in nieuwe volgorde -->
+  <rect x="0" y="0" width="20" height="20" fill="#00B0F0"></rect> <!-- Was blauw, nu boven links -->
+  <rect x="25" y="0" width="20" height="20" fill="#FFC000"></rect> <!-- Was geel, nu boven rechts -->
+  <rect x="0" y="25" width="20" height="20" fill="#ED7D31"></rect> <!-- Was oranje/rood, nu onder links -->
+  <rect x="25" y="25" width="20" height="20" fill="#70AD47"></rect> <!-- Was groen, nu onder rechts -->
+
+  <!-- Tekst 'Microsoft' in segoe UI stijl-->
+  <text x="60" y="17" font-family="Segoe UI, sans-serif" font-size="16" fill="#666">
+    Microsoft
+  </text>
+</svg>
